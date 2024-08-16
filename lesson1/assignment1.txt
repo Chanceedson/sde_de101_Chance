@@ -15,9 +15,4 @@ Gathering Requirements
 Once a solid understanding of the business is established, the focus shifts to gathering requirements for data analytics. 
 This involves a combination of interviews, workshops, and data analysis.
 
-Cultivating a data-driven culture is essential for the successful implementation of data analytics. This can be accomplished through data literacy, data visualization, 
-data governance and collaboration 
 
-Potential Challenges
-Data Quality: Implement data cleaning and validation processes to ensure data accuracy and reliability.
-Data Security: Prioritize data security and privacy to protect sensitive information.
