@@ -1,0 +1,23 @@
+Enabling Data Analytics.
+To effectively enable data analytics within an organization, it's crucial to start by understanding the business's specific needs and challenges. 
+This involves a bottom-up approach that focuses on gathering requirements from various departments and stakeholders.
+
+Understanding the Business
+Before diving into technical aspects, it is important to grasp the business' core operations, objectives, and challenges.
+
+Business Overview
+Gain a comprehensive understanding of the organization's industry, products/services, target market, and overall business model.
+Identify Key Stakeholders: 
+Determine the primary users of data analytics within the organization, such as sales, marketing, finance, operations, and customer support.
+Understand Business Processes: 
+Map out the key business processes to identify data touchpoints and potential areas for improvement.
+Gathering Requirements
+Once a solid understanding of the business is established, the focus shifts to gathering requirements for data analytics. 
+This involves a combination of interviews, workshops, and data analysis.
+
+Cultivating a data-driven culture is essential for the successful implementation of data analytics. This can be accomplished through data literacy, data visualization, 
+data governance and collaboration 
+
+Potential Challenges
+Data Quality: Implement data cleaning and validation processes to ensure data accuracy and reliability.
+Data Security: Prioritize data security and privacy to protect sensitive information.
